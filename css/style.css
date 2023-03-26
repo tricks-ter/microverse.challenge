@@ -34,3 +34,29 @@ img {
  padding: 10px;
  margin: 0;
 }
+section {
+ display: block;
+}
+
+#headline {
+ margin: 50px 0px;
+ text-align: center;
+}
+ul {
+ text-align: left;
+ max-width: 550px;
+ margin: 0 auto 50px auto;
+ line-height: 1.6;
+}
+li {
+ display: list-item;
+ margin: 16px 0;
+ text-align: -webkit-match-parent;
+}
+
+blockquote {
+ font-style: italic;
+ max-width: 545px;
+ margin: 0 auto 50px auto;
+ text-align: left;
+}
