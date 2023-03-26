@@ -51,7 +51,7 @@ ul {
 li {
  display: list-item;
  margin: 16px 0;
- text-align: -webkit-match-parent;
+ text-align: left;
 }
 
 blockquote {
